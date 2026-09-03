@@ -1,0 +1,6 @@
+{
+  "name": "Поле чудес: Испанский язык",
+  "description": "Обучающая викторина в стиле капитал-шоу «Поле чудес» на знание испанской грамматики Presente с барабаном и главным словом PROFESORA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
